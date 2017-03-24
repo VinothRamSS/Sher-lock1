@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\create_gesture.xml",
+        "source": "C:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\src\\main\\res\\layout\\create_gesture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gestures_item.xml",
+        "source": "C:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\src\\main\\res\\layout\\gestures_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_list.xml",
+        "source": "C:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\src\\main\\res\\layout\\app_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\users_list.xml",
+        "source": "C:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\src\\main\\res\\layout\\users_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\authenticate_gesture.xml",
+        "source": "C:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\src\\main\\res\\layout\\authenticate_gesture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_data.xml",
+        "source": "C:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\src\\main\\res\\layout\\app_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_rename.xml",
+        "source": "C:\\Users\\Welcome\\AndroidStudioProjects\\Sher-lock\\app\\src\\main\\res\\layout\\dialog_rename.xml"
+    }
+]

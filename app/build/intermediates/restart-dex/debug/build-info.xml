@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="14117205460971"
+    token="7179071144026189823"
+    verifier="R_CLASS_CHANGE" >
+
+    <task
+        name="javac"
+        duration="1724" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="271" />
+    <task
+        name="verifier"
+        duration="33" />
+
+    <artifact
+        location="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="3320691406568"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="14117205460971"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

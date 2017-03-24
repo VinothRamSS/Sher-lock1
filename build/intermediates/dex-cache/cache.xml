@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5449bc6ff4a84676c23700102105c9f0d2a78ed">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_01e410243d0df8afcfa9a20b977ba959bfc41397\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7078feab71ab6305d171cc00f40fe4cd28cb965f">
+        <dex dex="C:\Users\Welcome\AndroidStudioProjects\Sher-lock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_065bf16f76eb5911cc46039e80dd29ae9fe6f878\classes.dex" />
+    </item>
+
+</items>
